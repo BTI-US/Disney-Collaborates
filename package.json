@@ -14,7 +14,7 @@
     "@wagmi/core": "^2.6.9",
     "@web3modal/wagmi": "^4.1.1",
     "jquery": "^3.7.1",
-    "viem": "^2.8.18",
+    "viem": "^2.16.2",
     "webpack": "^5.91.0",
     "webpack-cli": "^5.1.4"
   },
