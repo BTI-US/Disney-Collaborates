@@ -10,7 +10,7 @@
     "build": "webpack"
   },
   "dependencies": {
-    "@wagmi/connectors": "^4.1.18",
+    "@wagmi/connectors": "^5.0.18",
     "@wagmi/core": "^2.6.9",
     "@web3modal/wagmi": "^4.1.1",
     "jquery": "^3.7.1",
